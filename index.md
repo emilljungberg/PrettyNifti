@@ -8,3 +8,5 @@ python my_colorbar.py -m test
 
 ### Links about colormaps
 Interesting article from [Matplotlib](http://matplotlib.org/users/colormaps.html)
+
+<img src="http://matplotlib.org/users/colormaps.html">
