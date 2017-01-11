@@ -1,6 +1,0 @@
-{
-  "name": "Pretty Nifti",
-  "tagline": "Pretty export of nifi images for presentations and papers",
-  "body": "### Why Pretty Nifti?\r\nWell, sometimes you just want to make some pretty images from your Nifti files but it isn't always easy.\r\n\r\nTry to use\r\n```\r\npython my_colorbar.py -m test\r\n```",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

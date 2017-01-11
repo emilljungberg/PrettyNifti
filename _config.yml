@@ -1,0 +1,8 @@
+title: Pretty Nifti
+description: Pretty export of nifi images for presentations and papers
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
