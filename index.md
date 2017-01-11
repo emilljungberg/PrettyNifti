@@ -7,4 +7,4 @@ python my_colorbar.py -m test
 ```
 
 ### Links about colormaps
-[http://matplotlib.org/users/colormaps.html](Matplotlib)
+Interesting article from [Matplotlib](http://matplotlib.org/users/colormaps.html)
