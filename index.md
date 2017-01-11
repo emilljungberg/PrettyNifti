@@ -5,3 +5,6 @@ Try to use
 ```
 python my_colorbar.py -m test
 ```
+
+### Links about colormaps
+[http://matplotlib.org/users/colormaps.html](Matplotlib)
